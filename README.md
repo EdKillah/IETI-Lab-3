@@ -1,3 +1,35 @@
+# Laboratorio 3 Task Manager
+
+
+```
+Credentials
+	username: edkillah
+	password: 654321
+```
+
+
+You can find the deploy on heroku in the next link: 
+
+[heroku](https://task-list-ieti.herokuapp.com)
+
+## Images
+
+### **On heroku**
+
+Working Offline:
+
+![](resources/offline_heroku.PNG)
+
+![](resources/offline_heroku_2.PNG)
+
+Not working on any webpage else as it is expected:
+
+![](resources/offline_heroku_3.PNG)
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
