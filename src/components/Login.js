@@ -30,13 +30,14 @@ const Login = (props) => {
   const [password, setPassword] = useState("");
 
   useEffect(() => {
-    localStorage.setItem("username", "edkillah");
+    localStorage.setItem("username", "Eduard Jimenez");
+    localStorage.setItem("email", "edkillah@mail.com");
     localStorage.setItem("pwd", "654321");
   }, []);
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    const user = localStorage.getItem("username");
+    const user = localStorage.getItem("email");
     const pwd = localStorage.getItem("pwd");
 
     if (email === user && password === pwd) {
