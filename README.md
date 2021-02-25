@@ -26,6 +26,10 @@ You can find the deploy on heroku in the next link:
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://task-list-ieti.herokuapp.com)
 
+AWS DEPLOY in the next link:
+
+[http://ec2-54-174-34-241.compute-1.amazonaws.com:3000/](http://ec2-54-174-34-241.compute-1.amazonaws.com:3000/)
+
 
 ## Images
 
@@ -41,6 +45,9 @@ Not working on any webpage else as it is expected:
 
 ![](resources/offline_heroku_3.PNG)
 
+Working on AWS:
+
+![](resources/online_aws.PNG)
 
 
 
